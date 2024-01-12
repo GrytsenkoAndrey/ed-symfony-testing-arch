@@ -154,6 +154,7 @@ If a payload doesn’t respect this rule, Pest PHP with alert us and fails the t
 ![image](https://github.com/GrytsenkoAndrey/ed-symfony-testing-arch/assets/63291871/ce8c62b1-e286-4b77-a8c5-311392af7003)
 
 After fixing the issue all tests must pass
+
 ![image](https://github.com/GrytsenkoAndrey/ed-symfony-testing-arch/assets/63291871/ba9239d2-3aeb-4f03-887f-331bb813b8b8)
 
 For more details about payloads usage, I wrote a detailed article explaining [how to use payloads to handle requests.](https://medium.com/@mounir.mouih/how-to-properly-handle-requests-with-symfony-6-3-0bfc8d7726a9)
